@@ -71,8 +71,9 @@ export default function Weather() {
             </li>
           </div>
         </ul>
+        <div className="repository-link"> <a href="https://github.com/BLSSMA/app-transfer-project" alt="link to blossom's github repository for this project">View GitHub Repository</a>
       </div>
-    );
+    </div>);
   } else {
     return (
       <div>
